@@ -1,0 +1,68 @@
+conn1:
+  node1: n1
+  node2: n2
+  distance: 15
+conn2:
+  node1: n2
+  node2: n3
+  distance: 15
+conn3:
+  node1: n3
+  node2: n4
+  distance: 15
+conn4:
+  node1: n1
+  node2: n5
+  distance: 15
+conn5:
+  node1: n2
+  node2: n6
+  distance: 15
+conn6:
+  node1: n3
+  node2: n7
+  distance: 15
+conn7:
+  node1: n4
+  node2: n8
+  distance: 15
+conn8:
+  node1: n5
+  node2: n6
+  distance: 15
+conn9:
+  node1: n6
+  node2: n7
+  distance: 15
+conn10:
+  node1: n7
+  node2: n8
+  distance: 15
+conn11:
+  node1: n5
+  node2: n9
+  distance: 15
+conn12:
+  node1: n6
+  node2: n10
+  distance: 15
+conn13:
+  node1: n7
+  node2: n11
+  distance: 15
+conn14:
+  node1: n8
+  node2: n12
+  distance: 15
+conn15:
+  node1: n9
+  node2: n10
+  distance: 15
+conn16:
+  node1: n10
+  node2: n11
+  distance: 15
+conn17:
+  node1: n11
+  node2: n12
+  distance: 15
