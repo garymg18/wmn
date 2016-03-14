@@ -29,6 +29,5 @@ class Graph
       n1.addConnectedNode(n2,distance)
       n2.addConnectedNode(n1,distance)
     end
-    @nodes.each {|n| n.info}
   end
 end
