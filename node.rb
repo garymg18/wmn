@@ -35,9 +35,4 @@ class Node
 end
 
 
-def readConnections
-  file = YAML.load_file('connections.yml')
-  puts file.inspect
-end
-
 

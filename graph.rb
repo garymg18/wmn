@@ -17,7 +17,6 @@ class Graph
         false
       end
     end
-
   end
 
   def loadConnections filename
